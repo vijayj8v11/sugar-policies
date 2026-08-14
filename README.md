@@ -4,7 +4,7 @@ This repository hosts the official **Privacy Policy** for the Gen Z Dating mobil
 
 ## View the policy
 
-- **Live page:** `https://YOURUSERNAME.github.io/sugar-privacy/`
+- **Live page:** `https://vijayj8v11.github.io/sugar-policies/privacy.html`
 - **Source file:** [`index.html`](index.html)
 - **Markdown version:** [`PRIVACY_POLICY.md`](PRIVACY_POLICY.md)
 
@@ -14,7 +14,7 @@ This repository hosts the official **Privacy Policy** for the Gen Z Dating mobil
 2. Go to **Settings → Pages**.
 3. Under **Build and deployment** → **Source**, select **Deploy from a branch**.
 4. Choose branch `main` and folder `/ (root)`, then **Save**.
-5. Wait ~1–2 minutes, then open `https://YOURUSERNAME.github.io/sugar-privacy/`.
+5. Wait ~1–2 minutes, then open `https://vijayj8v11.github.io/sugar-policies/`.
 
 ## Contact
 
