@@ -1,8 +1,8 @@
-# Privacy Policy — SuGar
+# Privacy Policy — Gen Z Dating
 
 **Last updated:** 31 July 2026
 
-This Privacy Policy explains how SuGar ("we", "our", "us") collects, uses, and protects the personal information of users ("you") of the SuGar mobile application ("the App").
+This Privacy Policy explains how Gen Z Dating ("we", "our", "us") collects, uses, and protects the personal information of users ("you") of the Gen Z Dating mobile application ("the App").
 
 By using the App, you agree to the practices described in this policy. If you do not agree, please do not use the App.
 
@@ -73,4 +73,4 @@ We may update this Privacy Policy from time to time. When we make material chang
 If you have questions or requests regarding this Privacy Policy or your data, contact us at:
 
 **Email:** vijayshankarvk9999@gmail.com
-**App:** SuGar — Dating for Gen Z
+**App:** Gen Z Dating

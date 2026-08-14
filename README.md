@@ -1,6 +1,6 @@
-# SuGar Privacy Policy
+# Gen Z Dating Privacy Policy
 
-This repository hosts the official **Privacy Policy** for the SuGar mobile app (Dating for Gen Z).
+This repository hosts the official **Privacy Policy** for the Gen Z Dating mobile app (Dating for Gen Z).
 
 ## View the policy
 
