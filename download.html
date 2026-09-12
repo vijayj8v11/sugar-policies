@@ -30,7 +30,11 @@
   .warn { background:linear-gradient(120deg,rgba(147,51,234,.18),rgba(233,30,99,.14));
     border:1px solid rgba(147,51,234,.45); border-radius:16px; padding:18px; margin-top:18px; }
   footer { text-align:center; padding:26px; color:#6b7280; font-size:13px; border-top:1px solid rgba(255,255,255,.06); }
-  code { background:#1a1a2e; padding:2px 6px; border-radius:6px; font-size:13px; }
+  code { background:#1a1a2e; padding:2px 6px; border-radius:6px; font-size:13px; word-break:break-all; }
+  .shots { display:flex; gap:12px; justify-content:center; flex-wrap:wrap; }
+  .shots img { width:31%; min-width:150px; border-radius:14px; border:1px solid rgba(255,255,255,.1); }
+  .qr { text-align:center; }
+  .qr img { width:200px; border-radius:12px; border:1px solid rgba(255,255,255,.15); background:#fff; padding:8px; }
 </style>
 </head>
 <body>
@@ -48,8 +52,22 @@
 <div class="card">
   <div><strong>Latest public APK:</strong> NeedAmor v1.0.5 (versionCode 6)</div>
   <div class="meta">File: NeedAmor_v1.0.5.apk &middot; Size: about 54.9 MB &middot; Updated: 12 Sep 2026</div>
+  <div class="meta">SHA-256: <code>AFB41BD616471B09D63692B316B043D75D47BB3C5A05FB139D51435542060857</code></div>
   <a class="btn" href="https://github.com/vijayj8v11/sugar-downloads/releases/download/v1.0.5/NeedAmor_v1.0.5.apk">Download APK</a>
-  <div class="meta">If the button does not start, open: <a href="https://github.com/vijayj8v11/sugar-downloads/releases/tag/v1.0.4">NeedAmor releases</a> and tap the APK under Assets.</div>
+  <div class="meta">If the button does not start, open: <a href="https://github.com/vijayj8v11/sugar-downloads/releases">NeedAmor releases</a> and tap the APK under Assets.</div>
+</div>
+
+<h2>Screenshots</h2>
+<div class="shots">
+  <img src="shot_discover.png" alt="Discover">
+  <img src="shot_match.png" alt="Matches">
+  <img src="shot_chat.png" alt="Chat">
+</div>
+
+<h2>Install with QR</h2>
+<div class="qr">
+  <img src="qr.png" alt="Download QR">
+  <p class="meta">Scan to open this download page. Use it in videos, posters, WhatsApp status and flyers.</p>
 </div>
 
 <h2>How to install</h2>
